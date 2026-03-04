@@ -1,4 +1,4 @@
-# 🚀 Classified Ads Platform
+# 🚀 A scalable multi-language classified marketplace platform built with Laravel and Inertia.js, featuring advanced filtering, media management, SEO automation, and role-based access control.
 
 A full-stack Laravel + Inertia.js application for creating, managing, and viewing classified ads with multilingual support, advanced filtering, media uploads, and SEO optimization.
 
